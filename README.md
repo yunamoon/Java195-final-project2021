@@ -47,6 +47,7 @@
 - login 정보가 관리자로 확인되면 관리자 로그인이 이루어집니다.
 <br>
 <br>
+
 ## 소셜 로그인 및 로그 아웃
 ![스크린샷(29)](https://user-images.githubusercontent.com/78346017/127022492-da3847fe-6c7f-41d2-ab20-8489e7eaa8f8.png)
 ![스크린샷(30)](https://user-images.githubusercontent.com/78346017/127022503-55be75f5-12fa-4a6e-a43c-929ba48ad567.png)
@@ -59,6 +60,7 @@
 - meminfo table 내 회원 정보와 결제 정보가 모두 존재한다면 로그인 후 메인으로 이동합니다.
 <br>
 <br>
+
 ## 결제 
 ![스크린샷(31)](https://user-images.githubusercontent.com/78346017/127022538-25f82986-039f-4787-83f3-e07425992ca3.png)
 ![스크린샷(27)](https://user-images.githubusercontent.com/78346017/127022542-e6f5a7c1-113c-41da-98f3-cbdf8f984f2a.png)
@@ -112,6 +114,7 @@
 - 해당 포스터 클릭 시 시청하던 영상 구간으로 이동하여 이어서 감상 하실 수 있습니다.
 <br>
 <br>
+
 ## 북마크
 ![KakaoTalk_20210630_110731445_06](https://user-images.githubusercontent.com/78346017/127022725-bc3fc2f0-151b-4ad6-b96b-58f21db3e74b.png)
 <br>
